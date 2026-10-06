@@ -8866,6 +8866,11 @@
         <desc>League A, Group 2.</desc>
         <icon src="https://images.pluto.tv/series/66d22590a1c8920013971357/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20261006171700 +0000" stop="20261006191500 +0000">
+        <title>Bundesliga Soccer</title>
+        <desc>SV Elversberg host FC Bayern Munich in Matchday 3. Elversberg sit fourth with six points after winning both opening matches. Bayern arrive sixth after a 0-0 draw against Schalke last weekend and are searching for consistency early in the season.</desc>
+        <icon src="https://images.pluto.tv/series/65e60c8c9255690013422b78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="654100b4bdf3cf0008aa49c7" start="20261006125608 +0000" stop="20261006132008 +0000">
         <title>00s Hits</title>
         <desc>Rihanna Ft. Jay-Z / The Script / The Black Eyed Peas / Snow Patrol / Jennifer Lopez Ft. Jadakiss &amp; Styles.</desc>
@@ -33027,6 +33032,11 @@ an ER doctor has to overcome his fears when he's confronted with an unusual seri
         <desc>League A, Group 2.</desc>
         <icon src="https://images.pluto.tv/series/66d22590a1c8920013971357/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20261007050600 +0000" stop="20261007070300 +0000">
+        <title>Bundesliga Soccer</title>
+        <desc>SV Elversberg host FC Bayern Munich in Matchday 3. Elversberg sit fourth with six points after winning both opening matches. Bayern arrive sixth after a 0-0 draw against Schalke last weekend and are searching for consistency early in the season.</desc>
+        <icon src="https://images.pluto.tv/series/65e60c8c9255690013422b78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="654100b4bdf3cf0008aa49c7" start="20261007004208 +0000" stop="20261007010808 +0000">
         <title>80s Hits</title>
         <desc>Just Can't Get Enough (Depeche Mode) / When Doves Cry (Prince) / Eternal Flame (The Bangles) / Living On A Prayer (Bon Jovi) / In The Air Tonight (Phil Collins)</desc>
@@ -41156,6 +41166,11 @@ Rated R</desc>
         <desc>AJ Styles vs. Sting; Samoa Joe vs. Kevin Nash; Christian Cage vs. Booker T; Motor City Machineguns vs. Beer Money, Inc.; Abyss vs. Kurt Angle; Rhino vs. Sheik Abdul Bashir; Awesome Kong &amp; Raisha Saeed vs. Taylor Wilde &amp; Roxxi. From Orlando, Fla.</desc>
         <icon src="https://images.pluto.tv/series/64592399662d03001b8cc8fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62ea4dadce395f0007086df2" start="20261007130300 +0000" stop="20261007150300 +0000">
+        <title>TNA iMPACT!</title>
+        <desc>In a first-time-ever matchup, Nic Nemeth defends the TNA World Championship against Josh Alexander; tensions explode between Moose and Mike Santana.</desc>
+        <icon src="https://images.pluto.tv/series/65e1ed99794da50014828249/tile_1785535530177.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64240d3d466225000827412b" start="20261007040000 +0000" stop="20261007053900 +0000">
         <title>Slipknot - Day of the Gusano</title>
         <desc>On December 8th 2015, after more than a decade of patiently waiting, the Mexican Maggots finally welcome the most anticipated visit of Slipknot and Knotfest to Mexico. The band did not disappoint. This show will leave you speechless and craving more.</desc>
@@ -41635,6 +41650,11 @@ Rated R</desc>
         <title>Replicas</title>
         <desc>A scientist becomes obsessed with bringing back his family members who died in a traffic accident.</desc>
         <icon src="https://images.pluto.tv/series/645d0a0991275e001a82808e/tile_1786483815006.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea3c2e4823db00072788ed" start="20261007132130 +0000" stop="20261007152230 +0000">
+        <title>6 Ways to Die</title>
+        <desc>John Doe (Vinnie Jones) makes it his mission to make Sonny "Sundown" Garcia (Michael Rene Walton), the top cocaine distributor in the United States, suffer six meaningful losses before his death.</desc>
+        <icon src="https://images.pluto.tv/series/65f9e4e84927ad001498d670/tile_1787692322357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62ea3d24b8e02600071fa296" start="20261007082630 +0000" stop="20261007102430 +0000">
         <title>Don't Suck</title>
@@ -50136,7 +50156,17 @@ Rated R</desc>
         <desc>Inside Imaginationland, Stan and Butters engage in the battle of their lives as they fight the army of evil imaginary forces. Meanwhile, Cartman goes all the way to the Supreme Court to get Kyle to pay up on their bet.</desc>
         <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdb1c5e25122000798ac79" start="20261007132000 +0000" stop="20261007170000 +0000">
+    <programme channel="62bdb1c5e25122000798ac79" start="20261007132000 +0000" stop="20261007134700 +0000">
+        <title>South Park</title>
+        <desc>Stan and Kyle are hooked on Guitar Hero. Unfortunately, Stan’s superior skills on the video game damage his friendship with Kyle.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb1c5e25122000798ac79" start="20261007134700 +0000" stop="20261007141400 +0000">
+        <title>South Park</title>
+        <desc>The girls in the fourth grade class have made a secret list that rates every boy’s looks from cutest to ugliest. When the boys steal the list, they are completely unprepared to deal with the results.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb1c5e25122000798ac79" start="20261007141400 +0000" stop="20261007170000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/featuredImage_1755153158450.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50146,7 +50176,17 @@ Rated R</desc>
         <desc>You don't have to go back in time to enjoy these fails!</desc>
         <icon src="https://images.pluto.tv/series/68dba3adfa0f5ccff5738c70/tile_1759225065179.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdb5500c21270007218ce1" start="20261007130600 +0000" stop="20261007170000 +0000">
+    <programme channel="62bdb5500c21270007218ce1" start="20261007130600 +0000" stop="20261007133700 +0000">
+        <title>World's Most Expensive Fails</title>
+        <desc>These costly mishaps prove that sometimes being in the wrong place can be very expensive.</desc>
+        <icon src="https://images.pluto.tv/series/68dba3adfa0f5ccff5738c70/tile_1759225065179.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb5500c21270007218ce1" start="20261007133700 +0000" stop="20261007140800 +0000">
+        <title>World's Most Expensive Fails</title>
+        <desc>When bad decisions, bad luck, and big budgets collide, the results aren't cheap.</desc>
+        <icon src="https://images.pluto.tv/series/68dba3adfa0f5ccff5738c70/tile_1759225065179.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb5500c21270007218ce1" start="20261007140800 +0000" stop="20261007170000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50156,7 +50196,17 @@ Rated R</desc>
         <desc>Frasier asks Sam to escort Diane to an event while he is out of town.</desc>
         <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile_1784819162699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdb7f0db2eb30007376d4d" start="20261007132300 +0000" stop="20261007170000 +0000">
+    <programme channel="62bdb7f0db2eb30007376d4d" start="20261007132300 +0000" stop="20261007135300 +0000">
+        <title>Cheers</title>
+        <desc>Sam reaps the consequences of getting involved with a married woman.</desc>
+        <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile_1784819162699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb7f0db2eb30007376d4d" start="20261007135300 +0000" stop="20261007142200 +0000">
+        <title>Cheers</title>
+        <desc>Coach proposes marriage when he falls in love at first sight.</desc>
+        <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile_1784819162699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb7f0db2eb30007376d4d" start="20261007142200 +0000" stop="20261007170000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50166,7 +50216,17 @@ Rated R</desc>
         <desc>Une nuit de folie, où les gamins passionnés par Le Seigneur des anneaux vont entretenir un quiproquo terrible à propos d'un film pornographique substitué à une copie du Seigneur.</desc>
         <icon src="https://images.pluto.tv/series/62bc7e85c7b29600144bd814/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdb919d36cbd0007e6ab8a" start="20261007132300 +0000" stop="20261007170000 +0000">
+    <programme channel="62bdb919d36cbd0007e6ab8a" start="20261007132300 +0000" stop="20261007135000 +0000">
+        <title>South Park: Le camp de la mort de tolérance</title>
+        <desc>Les parents veulent sauver leurs enfants de la spirale de l'intolérance. En même temps Mr Garrison en fait peut-être trop. Et une pauvre gerbille vit un road movie passionnant dans les entrailles de Mr Esclave.</desc>
+        <icon src="https://images.pluto.tv/series/62bc7e85c7b29600144bd814/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb919d36cbd0007e6ab8a" start="20261007135000 +0000" stop="20261007141700 +0000">
+        <title>South Park: Le Plus Gros Connard de l'Univers</title>
+        <desc>Chef et Mme Cartman décident de purger Eric de l'âme de Kenny. Pendant ce temps Stan tente de prouver que John Edward est un imposteur. Les voies de la solution s'avèreront d'ordre stellaire.</desc>
+        <icon src="https://images.pluto.tv/series/62bc7e85c7b29600144bd814/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb919d36cbd0007e6ab8a" start="20261007141700 +0000" stop="20261007170000 +0000">
         <title>South Park En Français</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50176,7 +50236,17 @@ Rated R</desc>
         <desc>Personality quirks begin to fray nerves after best friends Richie, Ralph, and Potsie rent an apartment together.</desc>
         <icon src="https://images.pluto.tv/series/62ff6686946347001bf10a94/tile_1782423002571.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e917b5e354cf0007b97a67" start="20261007132300 +0000" stop="20261007170000 +0000">
+    <programme channel="62e917b5e354cf0007b97a67" start="20261007132300 +0000" stop="20261007135400 +0000">
+        <title>Happy Days</title>
+        <desc>Snobby Cynthia Holmes schemes with her obnoxious cousin, Skippy, to make the Fonz look foolish at a country club soirée.</desc>
+        <icon src="https://images.pluto.tv/series/62ff6686946347001bf10a94/tile_1782423002571.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e917b5e354cf0007b97a67" start="20261007135400 +0000" stop="20261007142500 +0000">
+        <title>Happy Days</title>
+        <desc>Richie, Ralph, and Potsie endure the harassment of "hell week" to prove themselves worthy to enter their college fraternity, Phi Kappa Nu.</desc>
+        <icon src="https://images.pluto.tv/series/62ff6686946347001bf10a94/tile_1782423002571.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e917b5e354cf0007b97a67" start="20261007142500 +0000" stop="20261007170000 +0000">
         <title>Happy Days</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50186,7 +50256,17 @@ Rated R</desc>
         <desc>The high-spirited taxi gang helps a jittery Bobby fight potential disappointment when he decides that he will end his stage career if he doesn’t get an acting job before midnight.</desc>
         <icon src="https://images.pluto.tv/series/62ff6c862bc0c7001aabd147/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e9186f8b685d000773cf58" start="20261007132400 +0000" stop="20261007170000 +0000">
+    <programme channel="62e9186f8b685d000773cf58" start="20261007132400 +0000" stop="20261007135300 +0000">
+        <title>Taxi</title>
+        <desc>Elaine fears the worst when the cabbies invite themselves to her party for her highbrow art world friends who have no clue that she moonlights as a cab driver.</desc>
+        <icon src="https://images.pluto.tv/series/62ff6c862bc0c7001aabd147/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9186f8b685d000773cf58" start="20261007135300 +0000" stop="20261007142200 +0000">
+        <title>Taxi</title>
+        <desc>A pretty girl has John in a whirl, and his determination to meet her prompts the taxi gang to come up with a surefire line that would unfreeze any woman on earth in Taxi.</desc>
+        <icon src="https://images.pluto.tv/series/62ff6c862bc0c7001aabd147/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9186f8b685d000773cf58" start="20261007142200 +0000" stop="20261007170000 +0000">
         <title>Taxi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e9186f8b685d000773cf58/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50196,7 +50276,17 @@ Rated R</desc>
         <desc>Bobby lies to his friends that he knows Joe Namath, but they don't believe him. So with Cindy's help, Bobby fakes a serious illness in order to get Namath to come to the house and visit him.</desc>
         <icon src="https://images.pluto.tv/series/62d6fba3d7fb2b001382977f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e91af00c43540007f2bb43" start="20261007130900 +0000" stop="20261007170000 +0000">
+    <programme channel="62e91af00c43540007f2bb43" start="20261007130900 +0000" stop="20261007133600 +0000">
+        <title>The Brady Bunch</title>
+        <desc>Greg gets Peter to pretend to be an older guy and go with him on a double date, and Mike and Carol prepare to entertain one of Mike's clients from Mexico.</desc>
+        <icon src="https://images.pluto.tv/series/62d6fba3d7fb2b001382977f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e91af00c43540007f2bb43" start="20261007133600 +0000" stop="20261007140300 +0000">
+        <title>The Brady Bunch</title>
+        <desc>Greg steals the mascot from his rival school the night before the big game, and Mike tries to help him return it before he gets in big trouble.</desc>
+        <icon src="https://images.pluto.tv/series/62d6fba3d7fb2b001382977f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e91af00c43540007f2bb43" start="20261007140300 +0000" stop="20261007170000 +0000">
         <title>Pluto TV Classic TV Families</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50206,7 +50296,17 @@ Rated R</desc>
         <desc>Now that Reggie is gone, John tells Chris he has feelings for her (Chris).</desc>
         <icon src="https://images.pluto.tv/series/66b63f4a17101c00131abdd4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e91c3add66e00007eeb24c" start="20261007132000 +0000" stop="20261007170000 +0000">
+    <programme channel="62e91c3add66e00007eeb24c" start="20261007132000 +0000" stop="20261007134600 +0000">
+        <title>Caroline in the City</title>
+        <desc>When Annie is visited by her old singing teacher, Miss McGowan, Caroline helps Annie pretend to still have her "Cats" role, an act that may have a surprise ending.</desc>
+        <icon src="https://images.pluto.tv/series/64148a48f295e6001aae1174/tile_1782295201946.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e91c3add66e00007eeb24c" start="20261007134600 +0000" stop="20261007141300 +0000">
+        <title>Caroline in the City</title>
+        <desc>It's a game of messy politics when Caroline will not endorse a local councilman, who is inspired by her comic strip, while Del conjures up a promotional campaign.</desc>
+        <icon src="https://images.pluto.tv/series/64148a48f295e6001aae1174/tile_1782295201946.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e91c3add66e00007eeb24c" start="20261007141300 +0000" stop="20261007170000 +0000">
         <title>More Pluto TV Comedy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/featuredImage_1759310320477.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50216,7 +50316,17 @@ Rated R</desc>
         <desc>Though Alex loves working at Mr. Adler's "Mom and Pop" grocery store, to the old man's dismay, he quits to "climb the corporate ladder" at an ultramodern supermarket.</desc>
         <icon src="https://images.pluto.tv/series/62ff728120b977001eeec063/tile_1785865924000.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e920403bd6940007fb68b8" start="20261007130800 +0000" stop="20261007170000 +0000">
+    <programme channel="62e920403bd6940007fb68b8" start="20261007130800 +0000" stop="20261007133700 +0000">
+        <title>Family Ties</title>
+        <desc>The Keatons consider buying a gun for protection after getting burglarized.</desc>
+        <icon src="https://images.pluto.tv/series/62ff728120b977001eeec063/tile_1785865924000.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e920403bd6940007fb68b8" start="20261007133700 +0000" stop="20261007140600 +0000">
+        <title>Family Ties</title>
+        <desc>When a blizzard forces the Keatons to spend Christmas at home, Elyse's gift to Steven an album filled with fascinating old photos sparks flashbacks to the births of their three children.</desc>
+        <icon src="https://images.pluto.tv/series/62ff728120b977001eeec063/tile_1785865924000.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e920403bd6940007fb68b8" start="20261007140600 +0000" stop="20261007170000 +0000">
         <title>Family Ties</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50226,7 +50336,17 @@ Rated R</desc>
         <desc>These pets know how to have a good time.</desc>
         <icon src="https://images.pluto.tv/series/68de465beacdcfc0f71e0a67/tile_1759446518412.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e92b5fca869f00078f0162" start="20261007131900 +0000" stop="20261007170000 +0000">
+    <programme channel="62e92b5fca869f00078f0162" start="20261007131900 +0000" stop="20261007135100 +0000">
+        <title>Animals Unscripted</title>
+        <desc>The chunkiest good boys and girls.</desc>
+        <icon src="https://images.pluto.tv/series/68de465beacdcfc0f71e0a67/tile_1759446518412.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92b5fca869f00078f0162" start="20261007135100 +0000" stop="20261007142200 +0000">
+        <title>Best Pets of the Month</title>
+        <desc>These pets won August 2022.</desc>
+        <icon src="https://images.pluto.tv/series/68de465feacdcfc0f71e1140/tile_1759412588671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92b5fca869f00078f0162" start="20261007142200 +0000" stop="20261007170000 +0000">
         <title>The Pet Collective</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50236,7 +50356,17 @@ Rated R</desc>
         <desc>Doug's bowling-team sponsor demands victory, meaning Doug may have to fire his team's weak link: his wife, Carrie.</desc>
         <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile_1788469923175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f4f414c2ba130007f8b24e" start="20261007131900 +0000" stop="20261007170000 +0000">
+    <programme channel="62f4f414c2ba130007f8b24e" start="20261007131900 +0000" stop="20261007134700 +0000">
+        <title>King of Queens</title>
+        <desc>Carrie insists on using Doug's Christmas bonus to invest in Internet stock.</desc>
+        <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile_1788469923175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f414c2ba130007f8b24e" start="20261007134700 +0000" stop="20261007141500 +0000">
+        <title>King of Queens</title>
+        <desc>Carrie helps Doug plan a bachelor party after she volunteers him to be the friendless Danny's best man.</desc>
+        <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile_1788469923175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f414c2ba130007f8b24e" start="20261007141500 +0000" stop="20261007170000 +0000">
         <title>King of Queens</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50246,7 +50376,17 @@ Rated R</desc>
         <desc>Frasier volunteers to build a house for a Habitat for Humanity project.</desc>
         <icon src="https://images.pluto.tv/series/63727c80cea64000135d99c7/tile_1787766483424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f4f90e39183b000769f12b" start="20261007132400 +0000" stop="20261007170000 +0000">
+    <programme channel="62f4f90e39183b000769f12b" start="20261007132400 +0000" stop="20261007134900 +0000">
+        <title>Frasier</title>
+        <desc>Frasier and Niles boycott Café Nervosa when the owner hires a folk singer.</desc>
+        <icon src="https://images.pluto.tv/series/63727c80cea64000135d99c7/tile_1787766483424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f90e39183b000769f12b" start="20261007134900 +0000" stop="20261007141400 +0000">
+        <title>Frasier</title>
+        <desc>Bebe lures Frasier into dark pathways after revealing that she is also agent to Dr. Phil McGraw.</desc>
+        <icon src="https://images.pluto.tv/series/63727c80cea64000135d99c7/tile_1787766483424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f90e39183b000769f12b" start="20261007141400 +0000" stop="20261007170000 +0000">
         <title>Frasier</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50256,7 +50396,12 @@ Rated R</desc>
         <desc>The Python Gang reflects on their next misinterpreted and controversially banned film, The Life of Brian.</desc>
         <icon src="https://images.pluto.tv/series/67d32158917edb24228258bb/tile_1776978382716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="638e11951177840007fdd6b2" start="20261007135400 +0000" stop="20261007170000 +0000">
+    <programme channel="638e11951177840007fdd6b2" start="20261007135400 +0000" stop="20261007142600 +0000">
+        <title>Monty Python's Flying Circus</title>
+        <desc>Oscar Wilde, James Abbott McNeill Whistler, George Bernard Shaw and the future Edward VII exchange epigrams at an evening party; mechanical brain surgery fails to dramatically affect a woman's mentality.</desc>
+        <icon src="https://images.pluto.tv/series/67d325905c4a51b28b6101e4/tile_1776979476828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="638e11951177840007fdd6b2" start="20261007142600 +0000" stop="20261007170000 +0000">
         <title>Pluto TV British Comedy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/638e11951177840007fdd6b2/featuredImage_1745597177256.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50266,7 +50411,17 @@ Rated R</desc>
         <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
         <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20261007133000 +0000" stop="20261007170000 +0000">
+    <programme channel="64ca723a2bc49300081a8966" start="20261007133000 +0000" stop="20261007140000 +0000">
+        <title>Three's Company</title>
+        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
+        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ca723a2bc49300081a8966" start="20261007140000 +0000" stop="20261007143000 +0000">
+        <title>Three's Company</title>
+        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
+        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ca723a2bc49300081a8966" start="20261007143000 +0000" stop="20261007170000 +0000">
         <title>Three's Company</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50276,7 +50431,17 @@ Rated R</desc>
         <desc>Dangle preps for his wedding after his ex-wife's ex-husband proposes, and Wiegel goes into labor while stuck in cake.</desc>
         <icon src="https://images.pluto.tv/series/64df7528c6c2a60013ffa624/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64f8a408bd341e000818fcda" start="20261007132400 +0000" stop="20261007170000 +0000">
+    <programme channel="64f8a408bd341e000818fcda" start="20261007132400 +0000" stop="20261007135000 +0000">
+        <title>RENO 911!</title>
+        <desc>The investigation into Sheriff Chechekevitch's murder zeroes in on his ex-wife, and Williams and Wiegel attend a Lamaze class.</desc>
+        <icon src="https://images.pluto.tv/series/64df7528c6c2a60013ffa624/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f8a408bd341e000818fcda" start="20261007135000 +0000" stop="20261007141600 +0000">
+        <title>RENO 911!</title>
+        <desc>Jones and Garcia discover that not just anyone can dispense justice from horseback.</desc>
+        <icon src="https://images.pluto.tv/series/64df7528c6c2a60013ffa624/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f8a408bd341e000818fcda" start="20261007141600 +0000" stop="20261007170000 +0000">
         <title>Comedy Central</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50286,7 +50451,17 @@ Rated R</desc>
         <desc>The housemates rise up against the dreaded "Reality TV Twist."</desc>
         <icon src="https://images.pluto.tv/series/64dcefb0a5aa6e0013bf4a2c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64f8a949f5b5e4000862467c" start="20261007131500 +0000" stop="20261007170000 +0000">
+    <programme channel="64f8a949f5b5e4000862467c" start="20261007131500 +0000" stop="20261007133900 +0000">
+        <title>Daria</title>
+        <desc>Jake gets Daria a job after she reveals the result of her career aptitude test, Trent and Jesse attempt to write a new song, and Jane tries to save Daria from humiliation.</desc>
+        <icon src="https://images.pluto.tv/series/64de4130445a8a00131becc2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f8a949f5b5e4000862467c" start="20261007133900 +0000" stop="20261007140400 +0000">
+        <title>Daria</title>
+        <desc>Daria dreams of fictional versions of the people in her life for a short story assignment.</desc>
+        <icon src="https://images.pluto.tv/series/64de4130445a8a00131becc2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f8a949f5b5e4000862467c" start="20261007140400 +0000" stop="20261007170000 +0000">
         <title>Comedy Central Animation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50296,7 +50471,22 @@ Rated R</desc>
         <desc>On an all-new episode of Ridiculousness, Rob watches Finland's craziest stuntmen, The Dudesons, become "Nudesons," blast butts with "Fire in the Hole" and take aim at some "Human Targets."</desc>
         <icon src="https://images.pluto.tv/series/64dbdcce177f7000136fb940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64f9cccf110545000837912e" start="20261007130100 +0000" stop="20261007170000 +0000">
+    <programme channel="64f9cccf110545000837912e" start="20261007130100 +0000" stop="20261007132500 +0000">
+        <title>Ridiculousness</title>
+        <desc>On an all-new Ridiculousness, skating sensation Nyjah Huston and Rob watch some "Less Gifted" athletes, see poorly behaved guys "Getting Nyjah'd" and learn how to forget everything with some heavy-hitting "Mind Erasers."</desc>
+        <icon src="https://images.pluto.tv/series/64dbdcce177f7000136fb940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f9cccf110545000837912e" start="20261007132500 +0000" stop="20261007134900 +0000">
+        <title>Ridiculousness</title>
+        <desc>On an all-new episode of Ridiculousness, dancer and choreographer Derek Hough and Rob discuss the "Future of Dance," see what happens to people with "Garbage Feet" and learn how to "Knock Yourself Out."</desc>
+        <icon src="https://images.pluto.tv/series/64dbdcce177f7000136fb940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f9cccf110545000837912e" start="20261007134900 +0000" stop="20261007141300 +0000">
+        <title>Ridiculousness</title>
+        <desc>On an all-new episode of Ridiculousness, Rob, Sterling and Chanel see some beauty destroyed in "Not the Face!" redheads get slammed in "Code Red" and some distracted people meet their fate in "Obliviousness."</desc>
+        <icon src="https://images.pluto.tv/series/64dbdcce177f7000136fb940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f9cccf110545000837912e" start="20261007141300 +0000" stop="20261007170000 +0000">
         <title>MTV Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64f9cccf110545000837912e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50306,7 +50496,22 @@ Rated R</desc>
         <desc>Nick goes crazy buying items in bulk that the family doesn't need at the The Big Box Club, discount super store.</desc>
         <icon src="https://images.pluto.tv/series/660db2cc46b9c60013817218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf8b9328730900087c5324" start="20261007130600 +0000" stop="20261007170000 +0000">
+    <programme channel="65cf8b9328730900087c5324" start="20261007130600 +0000" stop="20261007133100 +0000">
+        <title>Are We There Yet?</title>
+        <desc>Comical chaos ensues when the gang waits in line to shop at a department store on Black Friday. Here, Kevin anticipates buying a new video game, Lindsey meets a boy, relationship problems plague Martin and Terrence hopes to buy toys for charity.</desc>
+        <icon src="https://images.pluto.tv/series/660db2cc46b9c60013817218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf8b9328730900087c5324" start="20261007133100 +0000" stop="20261007135600 +0000">
+        <title>Are We There Yet?</title>
+        <desc>A guys' night out goes awry, resulting in lost recollections due to alcohol-fueled blackouts and the disappearance of Nick's wedding ring.</desc>
+        <icon src="https://images.pluto.tv/series/660db2cc46b9c60013817218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf8b9328730900087c5324" start="20261007135600 +0000" stop="20261007142100 +0000">
+        <title>Are We There Yet?</title>
+        <desc>Nick attends his high-school reunion but must face an embarrassing incident from his past. Meanwhile, Lindsey throws a party.</desc>
+        <icon src="https://images.pluto.tv/series/660db2cc46b9c60013817218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf8b9328730900087c5324" start="20261007142100 +0000" stop="20261007170000 +0000">
         <title>Are We There Yet?</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cf8b9328730900087c5324/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50316,7 +50521,17 @@ Rated R</desc>
         <desc>Charlie isn't sure if his father; Martin; is developing Alzheimer's.</desc>
         <icon src="https://images.pluto.tv/series/662aade5a7a31d0017935c81/tile_1790721768709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf8bdaa25d5e00081e1e5d" start="20261007132000 +0000" stop="20261007170000 +0000">
+    <programme channel="65cf8bdaa25d5e00081e1e5d" start="20261007132000 +0000" stop="20261007134500 +0000">
+        <title>Anger Management</title>
+        <desc>Charlie begins a questionable romantic relationship with an ex-patient.</desc>
+        <icon src="https://images.pluto.tv/series/662aade5a7a31d0017935c81/tile_1790721768709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf8bdaa25d5e00081e1e5d" start="20261007134500 +0000" stop="20261007141000 +0000">
+        <title>Anger Management</title>
+        <desc>Charlie’s dad falls in with a bad crowd.</desc>
+        <icon src="https://images.pluto.tv/series/662aade5a7a31d0017935c81/tile_1790721768709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf8bdaa25d5e00081e1e5d" start="20261007141000 +0000" stop="20261007170000 +0000">
         <title>Anger Management</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cf8bdaa25d5e00081e1e5d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50326,7 +50541,22 @@ Rated R</desc>
         <desc>After a huge loss in court, Chef is left penniless, but he has some very famous and talented friends in the music business who want to help their old mentor.</desc>
         <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df47f428730900089f83ac" start="20261007130500 +0000" stop="20261007170000 +0000">
+    <programme channel="65df47f428730900089f83ac" start="20261007130500 +0000" stop="20261007133200 +0000">
+        <title>South Park</title>
+        <desc>The boys travel to Costa Rica as a part of the "Getting Gay with Kids" choir tour.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df47f428730900089f83ac" start="20261007133200 +0000" stop="20261007135900 +0000">
+        <title>South Park</title>
+        <desc>When the citizens of South Park start exploding randomly, the mayor enlists Stan's dad, the resident geologist, to find a solution to the problem.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df47f428730900089f83ac" start="20261007135900 +0000" stop="20261007142600 +0000">
+        <title>South Park</title>
+        <desc>The boys instigate a fight between Tweek and Craig in shop class. Meanwhile, Mr. Adler, the shop teacher, is haunted by a recurring dream of his lost love.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df47f428730900089f83ac" start="20261007142600 +0000" stop="20261007170000 +0000">
         <title>South Park: Kenny Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df47f428730900089f83ac/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50336,7 +50566,22 @@ Rated R</desc>
         <desc>Stan is addicted to the new Terrance and Phillip mobile game.</desc>
         <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df48ba28730900089f8480" start="20261007130500 +0000" stop="20261007170000 +0000">
+    <programme channel="65df48ba28730900089f8480" start="20261007130500 +0000" stop="20261007133200 +0000">
+        <title>South Park</title>
+        <desc>A weekend trip to experience the finer points of camping, fishing and blowing animals to smithereens is threatened by an erupting volcano.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df48ba28730900089f8480" start="20261007133200 +0000" stop="20261007135900 +0000">
+        <title>South Park</title>
+        <desc>Grandpa's sole birthday wish is for Stan to take part in his assisted suicide. Meanwhile, Mrs. Broflovski has organized a protest against the boys' favorite TV show, "Terrance and Phillip."</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df48ba28730900089f8480" start="20261007135900 +0000" stop="20261007142600 +0000">
+        <title>South Park</title>
+        <desc>When Sharon Marsh's Aunt Flo makes a monthly visit, she brings a mysterious pet fish for Stan.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df48ba28730900089f8480" start="20261007142600 +0000" stop="20261007170000 +0000">
         <title>South Park: Stan Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df48ba28730900089f8480/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50346,7 +50591,22 @@ Rated R</desc>
         <desc>After the sudden on-set of the disease Gingervitis, Cartman rallies all other ginger kids to rise up and assume their role as the master race.</desc>
         <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df4934f7f0af0008c32545" start="20261007130200 +0000" stop="20261007170000 +0000">
+    <programme channel="65df4934f7f0af0008c32545" start="20261007130200 +0000" stop="20261007132900 +0000">
+        <title>South Park</title>
+        <desc>Al Gore warns the school about the threat of Manbearpig.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df4934f7f0af0008c32545" start="20261007132900 +0000" stop="20261007135600 +0000">
+        <title>South Park</title>
+        <desc>When Cartman's mom realizes she can't control her son anymore, she gets help from an expert. The "Dog Whisperer" may have what it takes but Eric Cartman's not going down without a fight.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df4934f7f0af0008c32545" start="20261007135600 +0000" stop="20261007142300 +0000">
+        <title>South Park</title>
+        <desc>South Park Elementary faces strong opposition to the topic of evolution. Cartman's too busy to notice as he plans to propel himself into the future on the precise release date of the newest, hottest game console.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df4934f7f0af0008c32545" start="20261007142300 +0000" stop="20261007170000 +0000">
         <title>South Park: Cartman Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50356,7 +50616,22 @@ Rated R</desc>
         <desc>Cartman considers himself the top on-line restaurant reviewer in South Park.</desc>
         <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df49b30d45610008172c5b" start="20261007130200 +0000" stop="20261007170000 +0000">
+    <programme channel="65df49b30d45610008172c5b" start="20261007130200 +0000" stop="20261007132900 +0000">
+        <title>South Park</title>
+        <desc>Kyle's mom won't let him keep his new pet, an elephant because it's so huge. So the boys turn turn to the Dr. Mephesto to genetically engineer a smaller elephant.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df49b30d45610008172c5b" start="20261007132900 +0000" stop="20261007135600 +0000">
+        <title>South Park</title>
+        <desc>While South Park Elementary is attempting to stage a non-denominational holiday play that won't offend (or entertain) anyone, Kyle checks himself into the South Park mental asylum.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df49b30d45610008172c5b" start="20261007135600 +0000" stop="20261007142300 +0000">
+        <title>South Park</title>
+        <desc>The boys' discovery of a prehistoric relic spawns a monster that threatens to destroy South Park and the world.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df49b30d45610008172c5b" start="20261007142300 +0000" stop="20261007170000 +0000">
         <title>South Park: Kyle Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df49b30d45610008172c5b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50366,7 +50641,17 @@ Rated R</desc>
         <desc>The kids' parents only have their best interests at heart when they arrange for Stan, Kyle and Cartman to be exposed to the chickenpox virus.</desc>
         <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663115d923e24f000843b49c" start="20261007131200 +0000" stop="20261007170000 +0000">
+    <programme channel="663115d923e24f000843b49c" start="20261007131200 +0000" stop="20261007133900 +0000">
+        <title>South Park</title>
+        <desc>South Park's 14th Annual "Cow Days" rodeo and carnival is here and the boys are determined to win Terrance and Phillip dolls.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="663115d923e24f000843b49c" start="20261007133900 +0000" stop="20261007140600 +0000">
+        <title>South Park</title>
+        <desc>When Sharon Marsh's Aunt Flo makes a monthly visit, she brings a mysterious pet fish for Stan.</desc>
+        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1790721012131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="663115d923e24f000843b49c" start="20261007140600 +0000" stop="20261007170000 +0000">
         <title>South Park: Welcome to Canada!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/663115d923e24f000843b49c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50376,7 +50661,17 @@ Rated R</desc>
         <desc>Bud gets a huge money grant to go to college, but Al and Peggy spend it all on items for themselves.</desc>
         <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66bb3212fe11e5000883ea6b" start="20261007132100 +0000" stop="20261007170000 +0000">
+    <programme channel="66bb3212fe11e5000883ea6b" start="20261007132100 +0000" stop="20261007134500 +0000">
+        <title>Married... With Children</title>
+        <desc>Al becomes frustrated when Peggy can't decide what to wear to a family wedding. Meanwhile, Bud gets to know the bride and Kelly spends time with the bridesmaids.</desc>
+        <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66bb3212fe11e5000883ea6b" start="20261007134500 +0000" stop="20261007140900 +0000">
+        <title>Married... With Children</title>
+        <desc>Peggy and Marcy ruin Al's fishing trip by constantly fighting. Meanwhile, Jefferson and the kids spend Marcy's money.</desc>
+        <icon src="https://images.pluto.tv/series/66c363902fca060013453725/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66bb3212fe11e5000883ea6b" start="20261007140900 +0000" stop="20261007170000 +0000">
         <title>Married... with Children</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50386,7 +50681,22 @@ Rated R</desc>
         <desc>Darlene searches for a home that she and Becky can afford; after an attempt to boost business at The Lunch Box goes awry.</desc>
         <icon src="https://images.pluto.tv/series/66e9d04fa1c8920013a77cd7/tile_1776979838871.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66e2a94d167a8b000813485d" start="20261007130200 +0000" stop="20261007170000 +0000">
+    <programme channel="66e2a94d167a8b000813485d" start="20261007130200 +0000" stop="20261007132700 +0000">
+        <title>The Conners</title>
+        <desc>Dan enlists the help of a few friends for the funeral-home remodel; Louise points out that Dan's generosity with his time benefits everyone but her.</desc>
+        <icon src="https://images.pluto.tv/series/66e9d04fa1c8920013a77cd7/tile_1776979838871.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66e2a94d167a8b000813485d" start="20261007132700 +0000" stop="20261007135200 +0000">
+        <title>The Conners</title>
+        <desc>Darlene struggles to cope with the stress of construction; Lou returns as Mark's combative contrabassoon teacher.</desc>
+        <icon src="https://images.pluto.tv/series/66e9d04fa1c8920013a77cd7/tile_1776979838871.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66e2a94d167a8b000813485d" start="20261007135200 +0000" stop="20261007141700 +0000">
+        <title>The Conners</title>
+        <desc>Ben and Darlene are excited to share their good news with the family, but Neville and Jackie, and Aldo and Harris, share their own very similar news.</desc>
+        <icon src="https://images.pluto.tv/series/66e9d04fa1c8920013a77cd7/tile_1776979838871.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66e2a94d167a8b000813485d" start="20261007141700 +0000" stop="20261007170000 +0000">
         <title>The Conners</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66e2a94d167a8b000813485d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50396,7 +50706,17 @@ Rated R</desc>
         <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
         <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20261007133000 +0000" stop="20261007170000 +0000">
+    <programme channel="677f929054f43dad4b325c1c" start="20261007133000 +0000" stop="20261007140000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20261007140000 +0000" stop="20261007143000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20261007143000 +0000" stop="20261007170000 +0000">
         <title>Just for Laughs GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677f929054f43dad4b325c1c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50406,7 +50726,17 @@ Rated R</desc>
         <desc>America's Funniest Home Videos</desc>
         <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20261007132713 +0000" stop="20261007170000 +0000">
+    <programme channel="69172f1699758a0f03459c5b" start="20261007132713 +0000" stop="20261007135713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20261007135713 +0000" stop="20261007142713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20261007142713 +0000" stop="20261007170000 +0000">
         <title>America's Funniest Home Videos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69172f1699758a0f03459c5b/featuredImage_1767729487919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50416,7 +50746,17 @@ Rated R</desc>
         <desc>Larry leaves for Mypos to bring Balki back to America, but instead decides he wants to live in Mypos, too.</desc>
         <icon src="https://images.pluto.tv/series/69f121d1d37cdd39e2bcf2be/tile_1779137799079.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b83e4169056557a9252f61" start="20261007132231 +0000" stop="20261007170000 +0000">
+    <programme channel="69b83e4169056557a9252f61" start="20261007132231 +0000" stop="20261007134945 +0000">
+        <title>Perfect Strangers</title>
+        <desc>Larry and Balki believe a lost wedding ring is stuck inside the neighbor's turkey and try to get it back.</desc>
+        <icon src="https://images.pluto.tv/series/69f121d1d37cdd39e2bcf2be/tile_1779137799079.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b83e4169056557a9252f61" start="20261007134945 +0000" stop="20261007141500 +0000">
+        <title>Perfect Strangers</title>
+        <desc>When Larry and Balki collaborate on a new cartoon, tensions between the two rise.</desc>
+        <icon src="https://images.pluto.tv/series/69f121d1d37cdd39e2bcf2be/tile_1779137799079.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b83e4169056557a9252f61" start="20261007141500 +0000" stop="20261007170000 +0000">
         <title>Hit Sitcoms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b83e4169056557a9252f61/featuredImage_1773682310878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50426,7 +50766,17 @@ Rated R</desc>
         <desc>Toody gets a spell placed on him by a gypsy when he tries to uncover her theft ring.</desc>
         <icon src="https://images.pluto.tv/series/6abbe7b8a586c4b3c933072b/tile_1790699449436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56ae15bd858f210ae007fe" start="20261007130500 +0000" stop="20261007170000 +0000">
+    <programme channel="6a56ae15bd858f210ae007fe" start="20261007130500 +0000" stop="20261007133600 +0000">
+        <title>Car 54, Where Are You?</title>
+        <desc>The Toody's give their landlord their thirty days notice before leaving.</desc>
+        <icon src="https://images.pluto.tv/series/6abbe7b8a586c4b3c933072b/tile_1790699449436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56ae15bd858f210ae007fe" start="20261007133600 +0000" stop="20261007140700 +0000">
+        <title>Car 54, Where Are You?</title>
+        <desc>Toody and Muldoon catch Hugh Downs speeding.</desc>
+        <icon src="https://images.pluto.tv/series/6abbe7b8a586c4b3c933072b/tile_1790699449436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56ae15bd858f210ae007fe" start="20261007140700 +0000" stop="20261007170000 +0000">
         <title>Classic TV Comedy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/featuredImage_1784069906159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53076,7 +53426,12 @@ Rated R</desc>
         <desc>AJ Styles vs. Sting; Samoa Joe vs. Kevin Nash; Christian Cage vs. Booker T; Motor City Machineguns vs. Beer Money, Inc.; Abyss vs. Kurt Angle; Rhino vs. Sheik Abdul Bashir; Awesome Kong &amp; Raisha Saeed vs. Taylor Wilde &amp; Roxxi. From Orlando, Fla.</desc>
         <icon src="https://images.pluto.tv/series/64592399662d03001b8cc8fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ea4dadce395f0007086df2" start="20261007130300 +0000" stop="20261007170000 +0000">
+    <programme channel="62ea4dadce395f0007086df2" start="20261007130300 +0000" stop="20261007150300 +0000">
+        <title>TNA iMPACT!</title>
+        <desc>In a first-time-ever matchup, Nic Nemeth defends the TNA World Championship against Josh Alexander; tensions explode between Moose and Mike Santana.</desc>
+        <icon src="https://images.pluto.tv/series/65e1ed99794da50014828249/tile_1785535530177.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea4dadce395f0007086df2" start="20261007150300 +0000" stop="20261007170000 +0000">
         <title>TNA Wrestling</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ea4dadce395f0007086df2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53106,7 +53461,22 @@ Rated R</desc>
         <desc>Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
         <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1749480482548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20261007130108 +0000" stop="20261007170000 +0000">
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261007130108 +0000" stop="20261007132508 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1749480482548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261007132508 +0000" stop="20261007134708 +0000">
+        <title>10's Hits</title>
+        <desc>How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1749480482548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261007134708 +0000" stop="20261007140908 +0000">
+        <title>10's Hits</title>
+        <desc>All Of Me (John Legend)</desc>
+        <icon src="https://images.pluto.tv/series/6846f420793797dca15f51fe/tile_1749480482548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20261007140908 +0000" stop="20261007170000 +0000">
         <title>MTV Classic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53116,7 +53486,17 @@ Rated R</desc>
         <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
         <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6541010f770cf1000866be98" start="20261007133000 +0000" stop="20261007170000 +0000">
+    <programme channel="6541010f770cf1000866be98" start="20261007133000 +0000" stop="20261007140000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20261007140000 +0000" stop="20261007143000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20261007143000 +0000" stop="20261007170000 +0000">
         <title>MTV Spankin’ New</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6541010f770cf1000866be98/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53126,7 +53506,17 @@ Rated R</desc>
         <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
         <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65410176770cf1000866bf31" start="20261007133000 +0000" stop="20261007170000 +0000">
+    <programme channel="65410176770cf1000866bf31" start="20261007133000 +0000" stop="20261007140000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20261007140000 +0000" stop="20261007143000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20261007143000 +0000" stop="20261007170000 +0000">
         <title>MTV Biggest Pop</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65410176770cf1000866bf31/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53136,7 +53526,17 @@ Rated R</desc>
         <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
         <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654102ed770cf1000866c307" start="20261007133000 +0000" stop="20261007170000 +0000">
+    <programme channel="654102ed770cf1000866c307" start="20261007133000 +0000" stop="20261007140000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20261007140000 +0000" stop="20261007143000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20261007143000 +0000" stop="20261007170000 +0000">
         <title>Yo! MTV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654102ed770cf1000866c307/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53146,7 +53546,17 @@ Rated R</desc>
         <desc>Houston's Astrodome is the setting for the racing competition in the 2001 season of Monster Jam.</desc>
         <icon src="https://images.pluto.tv/series/65d889649255690013c09154/tile_1763568833012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65bcc9c8d77d450008b34c6b" start="20261007131400 +0000" stop="20261007170000 +0000">
+    <programme channel="65bcc9c8d77d450008b34c6b" start="20261007131400 +0000" stop="20261007134500 +0000">
+        <title>2023 Monster Jam - Arena in 30</title>
+        <desc>Earth Shaker's Tristan England brings the Arena Championship Series West points lead to Little Rock, Ark. Where he challenges El Toro Loco's Elvis Lainez, Grave Digger's Krysten Anderson and the rest of the west lineup.</desc>
+        <icon src="https://images.pluto.tv/series/65d889779255690013c0adef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bcc9c8d77d450008b34c6b" start="20261007134500 +0000" stop="20261007142900 +0000">
+        <title>Monster Jam Replay</title>
+        <desc>The Ford Center in Evansville transforms into a high-stakes battleground for the Freestyle Mania Championship Series. Six superstar drivers compete in a grueling gauntlet featuring the blistering speed of JCB Racing, the technical precision of the.</desc>
+        <icon src="https://images.pluto.tv/series/6973e32d71e7de966e5dcdd3/tile_1788203830836.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bcc9c8d77d450008b34c6b" start="20261007142900 +0000" stop="20261007170000 +0000">
         <title>Monster Jam</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65bcc9c8d77d450008b34c6b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53156,7 +53566,12 @@ Rated R</desc>
         <desc>Watch the full match replay between Japan and U.S.A. played at FIFA World Cup Stadium, Frankfurt, Frankfurt on Sunday, 17 July 2011.</desc>
         <icon src="https://images.pluto.tv/series/67b36ba496446070bd3d2c84/tile_1787037377967.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29b5aec9680008f5b4a4" start="20261007132500 +0000" stop="20261007170000 +0000">
+    <programme channel="660c29b5aec9680008f5b4a4" start="20261007132500 +0000" stop="20261007151700 +0000">
+        <title>2011 FIFA Women's World Cup</title>
+        <desc>Watch the full match replay between the USA and Colombia played at PreZero Arena, Sinsheim on Saturday, 02 July 2011 at 18:00.</desc>
+        <icon src="https://images.pluto.tv/series/67b36ba496446070bd3d2c84/tile_1787037377967.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c29b5aec9680008f5b4a4" start="20261007151700 +0000" stop="20261007170000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c29b5aec9680008f5b4a4/featuredImage_1750064929830.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -53176,7 +53591,17 @@ Rated R</desc>
         <desc>Series 15: Week 10, Group A Day Three.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1e5e8cf62654292052e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671645c4529ac900080c9a0b" start="20261007133000 +0000" stop="20261007170000 +0000">
+    <programme channel="671645c4529ac900080c9a0b" start="20261007133000 +0000" stop="20261007140000 +0000">
+        <title>Tungsten Talk</title>
+        <desc>Richie Burnett reflects on winning the BDO World Championship and shares some unforgettable tales.</desc>
+        <icon src="https://images.pluto.tv/series/67e2e1e3e8cf626542920196/tile_1757666735868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671645c4529ac900080c9a0b" start="20261007140000 +0000" stop="20261007144000 +0000">
+        <title>Break of Throw: Team America</title>
+        <desc>Paul Nicholson goes red, white &amp; bullseye with Team USA, analyzing the throws of Alex Spellman &amp; Jason Brandon.</desc>
+        <icon src="https://images.pluto.tv/series/6924906e270d239ba3279ddc/tile_1769188437752.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671645c4529ac900080c9a0b" start="20261007144000 +0000" stop="20261007170000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671645c4529ac900080c9a0b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
